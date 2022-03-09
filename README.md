@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Hhbecker
-- 👀 Anyone who isn’t confused really doesn’t understand the situation
+- 👀 “Debugging is like being the detective in a crime movie where you are also the murderer.” -Filipe fortes
+
 
 <!---
 Hhbecker/Hhbecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
