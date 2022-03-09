@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hhbecker
-- 👀 I'm interested in the intersection of computer science and biology. I would like to use my programming knowledge to contribute to medical research. I enjoy learning new skills, wether it be a musical instrument or a programming language! 
+- 👀 Anyone who isn’t confused really doesn’t understand the situation
 
 <!---
 Hhbecker/Hhbecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
