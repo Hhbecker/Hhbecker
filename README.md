@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hhbecker
-- 🌎 I'm a recent George Washington University graduate interested in connections between genetic and human developed code. 
+- 🌎 A recent George Washington University graduate interested in connections between genetic and human developed code. 
 - 🚀 Thanks for stopping by!
 
 <!---
